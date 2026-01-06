@@ -6,7 +6,7 @@ from telegram.constants import ParseMode
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, CallbackQueryHandler, MessageHandler, filters
 
 TOKEN = "8414599674:AAFn_mNJIKUBCb6WWGuKLB9XXh3qBNkeyk4"
-S_KEY = "688ffb076fb5313591fbf73d2fcbc83e"
+S_KEY = "7a3c7e2b53610912d6c4778afd570667"
 MOPON_URL = 'https://www.mopon.ir/api/coupon/single/xVMOq'
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
